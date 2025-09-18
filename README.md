@@ -65,3 +65,4 @@ java -jar dist/Agenda.jar
 
 * Certifique-se de que o MySQL esteja rodando antes de executar o programa.
 * Se o `.jar` não funcionar, verifique se o driver JDBC está incluído no projeto.
+* Se o github não pegar a pasta dist extraia o "AgendaMelhorFull" para funcionar certo, ela contém o arquivo "mysql-connector-java-5.1.44-bin.jar" que é nescessário para fazer a conexão com o mysql
